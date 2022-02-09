@@ -1,0 +1,9 @@
+# Feb-8-assignment
+a=int(input())
+b=int(input())
+print('a<b:',a<b)
+print('a>b:',a>b)
+print('a<=b:',a<=b)
+print('a>=b:',a>=b)
+print('a==b:',a==b)
+print('a!=b:',a!=b)
